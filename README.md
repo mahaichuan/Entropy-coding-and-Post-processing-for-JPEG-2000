@@ -5,3 +5,4 @@ Please note that only the codes of the model are given, to use this, you need to
 
 This code compress the wavelet coefficients in two steps: 1. compress the magnitude; 2. compress the sign. The wavelet coefficients are extracted before the inverse-transform of JPEG-2000.
 
+Please refer to the paper for more information, or contact us. Thanks!
